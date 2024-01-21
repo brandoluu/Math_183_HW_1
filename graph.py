@@ -159,6 +159,7 @@ print("Median: " + str(median))
 print("Mode: " + str(mode))
 """
 
+"""
 # HW 1 Q3 Part J
 numEngineers = 0
 for student in studentData:
@@ -167,7 +168,7 @@ for student in studentData:
 
 print(numEngineers)
 print(numEngineers/len(studentData) * 100)
-
+"""
 
 
 
